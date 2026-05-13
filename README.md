@@ -1,2 +1,13 @@
-# Esp32---Estudos
-Este repositórios foi criado com o objetivo de armazenar códigos de estudos do esp32
+# ESP32 Estudos
+
+Repositório com exemplos e projetos desenvolvidos durante meus estudos com ESP32.
+
+## Conteúdo
+
+- Blink
+- GPIO
+- PWM
+- ADC
+- Wi-Fi
+- MQTT
+- Servidor Web
